@@ -36,6 +36,33 @@ This project provides a centralized analytics solution to answer these questions
 
 ---
 
+## 📊 Dashboard Showcase
+
+The Power BI dashboard was designed to provide business stakeholders with a clear view of sales performance, profitability, customer behavior, and regional trends through interactive visualizations and KPI monitoring.
+
+### 🏆 Executive Sales Overview
+
+This page provides a high-level summary of business performance, including key KPIs such as Total Revenue, Total Profit, Total Orders, and overall sales trends to support executive decision-making.
+
+![Executive Sales Overview](images/overview.png)
+
+---
+
+### 💰 Revenue & Profitability Analysis
+
+This page focuses on revenue generation and profitability drivers by analyzing product categories, sales contribution, profit margins, and business performance metrics.
+
+![Revenue & Profitability Analysis](images/revenue_profitability.png)
+
+---
+
+### 🌍 Regional & Customer Performance
+
+This page highlights regional sales distribution, customer contribution, and market performance to identify growth opportunities and high-value customer segments.
+
+![Regional & Customer Performance](images/regional_customer_analysis.png)
+
+
 ## 🔄 Analytics Workflow
 
 Raw Sales Data
